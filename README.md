@@ -25,7 +25,7 @@ The project uses a publicly available Urdu social media dataset (e.g., from Kagg
 ## Usage
 Run the Jupyter Notebook to execute the sentiment analysis pipeline:
 ```sh
-jupyter notebook main.ipynb
+jupyter notebook Sentiment_Analysis.ipynb
 ```
 
 ## Tools & Libraries
