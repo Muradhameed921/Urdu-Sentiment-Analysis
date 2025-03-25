@@ -46,4 +46,4 @@ jupyter notebook Sentiment_Analysis.ipynb
 - Noisy data from social media (emojis, spelling variations, incomplete sentences)
 - Limited pre-trained NLP resources for Urdu
 
-![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![Urdu Sentiment Analysis Screenshot](https://github.com/Muradhameed921/Urdu-Sentiment-Analysis/blob/main/O1.jpg)
